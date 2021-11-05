@@ -1,0 +1,1 @@
+Repositório criado para armazenar implementações das aulas do curso de Ciências da Computação pela UNESP Rio Claro
